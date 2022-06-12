@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpc_manage"]=self["webpackChunkpc_manage"]||[]).push([[950],{9950:function(e,n,a){a.r(n),a.d(n,{default:function(){return f}});var u=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("div",[e._v("aaa")])},t=[],l={},c=l,r=a(1001),s=(0,r.Z)(c,u,t,!1,null,null,null),f=s.exports}}]);
+//# sourceMappingURL=950-legacy.6babfbb2.js.map
